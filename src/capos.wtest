@@ -1,0 +1,6 @@
+import capos.*
+test "" {
+	rolando.poderBase(5)
+	rolando.capacidad(3)
+	rolando.listaArtefactos(espadaDelDestino,collarDivino,armaduraDeAceroValyrio)
+}
